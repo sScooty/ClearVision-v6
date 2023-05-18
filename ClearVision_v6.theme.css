@@ -21,7 +21,7 @@
   --url-color: var(--main-color);
   --background-image: url('https://i.imgur.com/mZoO2x3.jpg');
   --background-shading: 100%;
-  --background-position: center right;
+  --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
@@ -101,3 +101,5 @@
 }
 
 /* Any custom CSS below here */
+
+
